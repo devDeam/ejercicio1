@@ -1,0 +1,10 @@
+
+body {
+    margin: 30px;
+}
+
+
+.card-img-top {
+  height: 400px;   /* o la altura que prefieras */
+  object-fit: cover; /* recorta y ajusta la imagen sin deformarla */
+}
